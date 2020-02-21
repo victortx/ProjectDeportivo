@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "414613195906",
+    "firebase_url": "https://torneosfutbol-f19e1.firebaseio.com",
+    "project_id": "torneosfutbol-f19e1",
+    "storage_bucket": "torneosfutbol-f19e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414613195906:android:8472cbddf28f3d7b51389b",
+        "android_client_info": {
+          "package_name": "com.example.projectdeportivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414613195906-s57dplir1v094ihmktgsi8ste4klg3af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectdeportivo",
+            "certificate_hash": "249a5b22996af30582fd565bc717730be9923208"
+          }
+        },
+        {
+          "client_id": "414613195906-mpkuobo3b7at7k908353vrogfroq9rp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdJ8ZEj8ufvmsT2jv8Hq9jB_SaXtBx4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414613195906-mpkuobo3b7at7k908353vrogfroq9rp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
